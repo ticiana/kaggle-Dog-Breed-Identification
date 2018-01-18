@@ -12,3 +12,5 @@ InceptionV3,
 InceptionResNetV2,
 MobileNet and
 NASNet
+
+worked based on: https://www.kaggle.com/gaborfodor/dog-breed-pretrained-keras-models-lb-0-3
